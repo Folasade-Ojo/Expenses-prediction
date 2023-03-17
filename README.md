@@ -3,7 +3,7 @@ I am interested in the effect that *smoking* and 6 other variables (*age*, *sex*
 
 To achieve this, I will create a simple linear regression model and a multivariate regression model. These are needed to establish if there exists a linear relationship between the dependent variable and the independent variables.
 
-I will also run t-test based on the dataset to confirm if the true mean of expense is $10,000 or not.
+I will also run a t-test based on the dataset to confirm if the true mean of expense is $10,000 or not.
 
 ## Analysis
 ### Histogram
