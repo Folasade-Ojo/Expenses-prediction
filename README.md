@@ -12,7 +12,7 @@ I will also run a **t-test** based on the dataset to confirm if the true mean of
 * The histogram shows that the data is positively skewed i.e., skewed to the right. Hence, the distribution is not normal.
 - Furthermore, there is more dataset concentrated toward the left-hand side of the mean.
 
-Although a t-test and linear regression analyses assume the normality of a dataset, I will go on with the analysis.
+Although a t-test and linear regression analysis assume the normality of a dataset, I will go on with the analyses.
 
 ### T Test
 In order to test if the true population mean of expenses  = 10,000 or not, a one-sample two-tailed t-test will be conducted since the population standard deviation is unknown and we are checking for equality. T-test assumes the normality of the dataset, however, as earlier stated, we will go on with the test even though the distribution is skewed.
