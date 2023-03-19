@@ -26,10 +26,10 @@ In order to test if the true population mean of expenses  = 10,000 or not, a one
 **Test and Output**:
 
 The test was conducted in R studio with the population mean (10,000), through which the following parameters were calculated
-+ The degree of freedom(df), which is 1337 (i.e., n-1)
++ The degree of freedom(df) = 1337 (i.e., n-1)
 - The p-value = 2.2 e -16. *This is the risk I am willing to take based on this analysis and it is way smaller than the significance level of 0.05*
 * Sample mean = 13270.42 (which is not equal to 10,000)
-+ 95% confidence interval = (12620.95 - 13919.89). *This implies that  with 95% confidence the interval between 12620.95 and 13919.89 contains the true mean*
++ 95% confidence interval = (12620.95 - 13919.89). *This implies that with 95% confidence, the interval between 12620.95 and 13919.89 contains the true mean*
 
 **Conclusion**: With respect to the above, with 95% confidence, we will reject the null hypothesis which states that the average expenses  = 10,000, at the 0.05 significance level. 
 Furthermore, there is enough evidence to show that the mean of expenses is not 10,000, hence, we will fail to reject the alternative hypothesis.
